@@ -1,0 +1,50 @@
+body, h1, p {
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+
+
+#main {
+    text-align: center;
+    padding: 20px;
+}
+
+
+#title {
+    color: red;
+    font-size: 45px;
+}
+
+
+#img-div {
+    text-align: center;
+}
+
+
+#image {
+    display: absolute;
+    max-width: 100%;
+    height: auto;
+}
+
+
+#img-caption {
+    font-style: bold;
+}
+
+
+#tribute-info {
+    margin-top: 20px;
+}
+
+
+#tribute-link {
+    color: #1976d2; /* 
+    text-decoration: none;
+}
+
+
+#tribute-link:hover {
+    text-decoration: underline;
+}
